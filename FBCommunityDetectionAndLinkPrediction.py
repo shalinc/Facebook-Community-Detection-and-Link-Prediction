@@ -206,7 +206,7 @@ def partition_girvan_newman(graph, max_depth):
     #     print(list(component))
     #     #print(val)
     return components
-
+############
 
 def get_subgraph(graph, min_degree):
     """
